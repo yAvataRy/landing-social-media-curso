@@ -1,0 +1,22 @@
+{
+  "name": "landing-socialmedia",
+  "version": "1.0.0",
+  "main": "index.js",
+  "scripts": {
+    "build": "nuxt build",
+    "dev": "nuxt dev",
+    "generate": "nuxt generate",
+    "preview": "nuxt preview",
+    "postinstall": "nuxt prepare"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "description": "",
+  "dependencies": {
+    "@nuxt/ui": "^3.3.0",
+    "@tailwindcss/vite": "^4.1.11",
+    "nuxt": "^4.0.1",
+    "tailwindcss": "^4.1.11"
+  }
+}

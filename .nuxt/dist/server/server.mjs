@@ -1,0 +1,1 @@
+export { default } from "file:///D:/Users/VineL/Desktop/Front.Vinicius/Bravva-glow/Landing%20para%20Venda%20do%20Curso/landing-socialmedia/node_modules/@nuxt/vite-builder/dist/runtime/vite-node.mjs"
