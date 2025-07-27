@@ -41,7 +41,8 @@
 # - Verifique se você possui uma chave SSH configurada no seu computador.
 # - Adicione sua chave SSH à sua conta do GitHub (https://github.com/settings/keys).
 # - Confirme se está usando a URL SSH correta:
-#     git remote set-url origin git@github.com:yAvataRy/landing-social-media-curso.git
+#     git remote set-url origin git@github-yavatary:yAvataRy/landing-social-media-curso.git
+
 # - Teste sua conexão com:
 #     ssh -T git@github.com
 # -------------------------
